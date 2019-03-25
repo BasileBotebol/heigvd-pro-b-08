@@ -1,13 +1,13 @@
-.idea/*
-.gradle/*
-.g8/*
+pro_play_java/.idea/*
+pro_play_java/.gradle/*
+pro_play_java/.g8/*
 
-.idea
-.gradle
-.g8
+pro_play_java/.idea
+pro_play_java/.gradle
+pro_play_java/.g8
 
-/build/*
-/target/*
+pro_play_java/build/*
+pro_play_java/target/*
 
 target
 *.class
