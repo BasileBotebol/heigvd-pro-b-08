@@ -1,13 +1,13 @@
-.idea/
-.gradle/
-.g8/
+.idea/*
+.gradle/*
+.g8/*
 
 .idea
 .gradle
 .g8
 
-build/
-target/
+/build/*
+/target/*
 
 target
 *.class
@@ -16,4 +16,4 @@ target
 *.ipr
 *.iws
 .idea
-out
+/out/*
